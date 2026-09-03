@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18773" started-at="2025-12-18T16:58:58 BRT" finished-at="2025-12-18T16:59:16 BRT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18773" started-at="2025-12-18T16:58:58 BRT" finished-at="2025-12-18T16:59:16 BRT">
+      <class name="br.gov.rj.rio.iplanrio.aceitacao.prefrio.test.ServicoCidadeTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:br.gov.rj.rio.iplanrio.aceitacao.prefrio.test.ServicoCidadeTest@87a85e1]" name="beforeTest" is-config="true" duration-ms="7" started-at="2025-12-18T16:58:58 BRT" finished-at="2025-12-18T16:58:58 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:br.gov.rj.rio.iplanrio.aceitacao.prefrio.test.ServicoCidadeTest@87a85e1]" name="beforeClass" is-config="true" duration-ms="182" started-at="2025-12-18T16:58:58 BRT" finished-at="2025-12-18T16:58:58 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="ExecutaListaDeCasosDeUso()[pri:0, instance:br.gov.rj.rio.iplanrio.aceitacao.prefrio.test.ServicoCidadeTest@87a85e1]" name="ExecutaListaDeCasosDeUso" duration-ms="18554" started-at="2025-12-18T16:58:58 BRT" finished-at="2025-12-18T16:59:16 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExecutaListaDeCasosDeUso -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:br.gov.rj.rio.iplanrio.aceitacao.prefrio.test.ServicoCidadeTest@87a85e1]" name="afterClass" is-config="true" duration-ms="0" started-at="2025-12-18T16:59:16 BRT" finished-at="2025-12-18T16:59:16 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:br.gov.rj.rio.iplanrio.aceitacao.prefrio.test.ServicoCidadeTest@87a85e1]" name="afterTest" is-config="true" duration-ms="1" started-at="2025-12-18T16:59:16 BRT" finished-at="2025-12-18T16:59:16 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- br.gov.rj.rio.iplanrio.aceitacao.prefrio.test.ServicoCidadeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
